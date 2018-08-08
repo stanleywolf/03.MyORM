@@ -1,0 +1,13 @@
+F:\Visual Project\C# EntityFramework\03.MyORM\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.deps.json
+F:\Visual Project\C# EntityFramework\03.MyORM\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\03.MyORM\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\03.MyORM\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.dll
+F:\Visual Project\C# EntityFramework\03.MyORM\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.pdb
+F:\Visual Project\C# EntityFramework\03.MyORM\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.dll
+F:\Visual Project\C# EntityFramework\03.MyORM\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.pdb
+F:\Visual Project\C# EntityFramework\03.MyORM\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\03.MyORM\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\03.MyORM\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\03.MyORM\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\03.MyORM\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.dll
+F:\Visual Project\C# EntityFramework\03.MyORM\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.pdb
